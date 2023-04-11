@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>In-App Guidance Walkthrough Dashboard</fullName>
+    <description>Congrats! You&apos;re installing the In-App Guidance walkthrough dashboard and reports, which includes a custom report type, &quot;In-App Guidance with User Data - WT Dashboard&quot;. See the listing resources for details about how to add your own custom user data to the report type and other FAQs.
+
+We recommend making a copy of the dashboard or any reports before customizing them to ensure your changes are saved in case you wish to install a new version of this package as we release updates over time.</description>
+    <postInstallLink>http://sfdc.co/in-app-guidance-dashboard-faqs</postInstallLink>
+    <releaseNotesLink>http://sfdc.co/in-app-guidance-dashboard-faqs</releaseNotesLink>
+    <types>
+        <members>InAppGuidanceWalkthroughPackageV104tB0000000ZOYN</members>
+        <members>InAppGuidanceWalkthroughPackageV104tB0000000ZOYN/dBtcjyOjSzUIeCBLKawmUEGIaVGhDW04tB0000000ZOYN</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>InAppGuidanceWalkthroughPackage_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Last_Results_by_Walkthrough_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Percent_Action_Taken_by_Walkthrough_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/WT_Percent_Progress_by_Step_Count_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/WT_Percent_Progress_by_Walkthrough_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/WT_Reached_Last_Step_by_User_Profile_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/WT_Reached_Last_Step_by_User_Role_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Walkthrough_Completion_by_User_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Walkthrough_Error_Details_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Walkthrough_Reached_Last_Step_Rate_by_WT_V1</members>
+        <members>InAppGuidanceWalkthroughPackage_V1/Walkthrough_Reached_Last_Step_by_Length_V1</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>In_App_Guidance_with_User_Data_WT_Package_V1</members>
+        <name>ReportType</name>
+    </types>
+    <version>49.0</version>
+</Package>
